@@ -5,7 +5,7 @@ Esse projeto tem como objetivo criar máscaras que serão utilizadas como templa
 | :books: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Hoffman Templates**
-| :label: Tecnologias | python (cv2, skimage, pydicom, plotly)
+| :label: Tecnologias | python, cv2, skimage, pydicom, plotly
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://vitrinedev.s3.amazonaws.com/ROI_Template.png#vitrinedev)
